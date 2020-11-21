@@ -1,4 +1,4 @@
-# Two-stage Discourse Parser
+# A RST Discourse Parser with new nuclearity type of N~ and new action of R~
 
 We build up a RST discourse parser described in [tree Representations in Transition System for RST Parsing] based on the paper of http://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-2029.pdf. 
 
